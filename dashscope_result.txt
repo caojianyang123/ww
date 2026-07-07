@@ -1,0 +1,4 @@
+API Key exists: True
+Response type: <class 'dashscope.api_entities.dashscope_response.GenerationResponse'>
+Response: {"status_code": 400, "request_id": "5daf4799-384f-93a9-ae7b-563d596ff5cd", "code": "InvalidParameter", "message": "url error, please check url！ For details, see: https://help.aliyun.com/zh/model-studio/error-code#error-url", "output": null, "usage": null}
+Response dict: None
